@@ -16,12 +16,13 @@ Design a class named Hall with the following features:
     ticket_price
     
 Methods:
-__init__(self): Initialize the class instances.
-calculate_ticket_price(self, movie_name, number_of_tickets): Calculate the total price for the
-specified number of tickets and movies.
-check_seat_availability(self, movie_name, number_of_tickets): Check if the specified number of
-tickets are available for the given movie.
-get_seat_numbers(self): Get the list of seat numbers.
-book_ticket(self, movie_name, number_of_tickets): Book tickets for a given movie and number
-of tickets.
-cancel_ticket (self, seat_number)
+
+    __init__(self): Initialize the class instances.
+    calculate_ticket_price(self, movie_name, number_of_tickets): Calculate the total price for the
+    specified number of tickets and movies.
+    check_seat_availability(self, movie_name, number_of_tickets): Check if the specified number of
+    tickets are available for the given movie.
+    get_seat_numbers(self): Get the list of seat numbers.
+    book_ticket(self, movie_name, number_of_tickets): Book tickets for a given movie and number
+    of tickets.
+    cancel_ticket (self, seat_number)
