@@ -3,10 +3,10 @@ This is one of my Python Program, using OOPs concept.
 I simulate a Multiplex Ticket Booking System using Object-Oriented Programming (OOP) principles. The system should allow customers to book movie tickets sequentially if available.
 
 Class: Multiplex and Hall
-Design a class named Multiplex with the following features:
+Design a class named Multiplex with the following features:\n
     Number of Halls
     Address
-Design a class named Hall with the following features:
+Design a class named Hall with the following features:\n
     movie_name
     total_tickets
     __list_available_seat_number
